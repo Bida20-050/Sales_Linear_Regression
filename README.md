@@ -1,1 +1,1 @@
-#### This project entailed developing a linear regression model to forecast the sales of a single product using a series of transactional sales data. The data used spanned nine months.With acceptable accuracy, the model was able to forecast the price of a product in the coming new year.
+<h4> This project entailed developing a linear regression model to forecast the sales of a single product using a series of transactional sales data. The data used spanned nine months.With acceptable accuracy, the model was able to forecast the price of a product in the coming new year. </h4>
